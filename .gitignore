@@ -23,7 +23,7 @@
 #
 
 # Delphi compiler-generated binaries (safe to delete)
-*.exe
+#*.exe
 *.dll
 *.bpl
 *.bpi
@@ -63,8 +63,7 @@ __history/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
-
+Icon
 # Thumbnails
 ._*
 
